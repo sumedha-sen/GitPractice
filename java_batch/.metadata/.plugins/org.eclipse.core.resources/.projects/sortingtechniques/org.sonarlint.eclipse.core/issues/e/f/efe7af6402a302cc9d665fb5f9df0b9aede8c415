@@ -1,0 +1,10 @@
+
+a
+java:S1121>".Extract the assignment out of this expression.(åÿ•Æ8¥Š¥œŠ/H‰RMAJORZ
+CODE_SMELL
+}
+java:S3973:"GUse indentation to denote the code conditionally executed by this "if".(‘Œ«‰8ìÛœŠ/HŠRCRITICALZ
+CODE_SMELL
+T
+java:S1643<"Use a StringBuilder instead.(‰•ˆèşÿÿÿÿ8ãÓŠœŠ/HŒRMINORZ
+CODE_SMELL

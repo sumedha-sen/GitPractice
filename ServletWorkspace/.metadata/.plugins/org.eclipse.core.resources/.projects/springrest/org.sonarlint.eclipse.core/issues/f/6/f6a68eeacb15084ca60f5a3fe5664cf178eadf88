@@ -1,0 +1,13 @@
+
+w
+java:S1192$"HDefine a constant instead of duplicating this literal "failure" 5 times.(«Ğª·H¸*RCRITICALZ
+CODE_SMELL
+w
+java:S1192"HDefine a constant instead of duplicating this literal "success" 5 times.(œ·ÖH¾*RCRITICALZ
+CODE_SMELL
+w
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(¤Ş¹ÄùÿÿÿÿHÄ*RCRITICALZVULNERABILITY
+w
+java:S4684`"@Replace this persistent entity with a simple POJO or DTO object.(ÖòéıÿÿÿÿHÅ*RCRITICALZVULNERABILITY
+i	java:S106a"9Replace this use of System.out or System.err by a logger.(Ö¦û–ÿÿÿÿÿHÆ*RMAJORZ
+CODE_SMELL

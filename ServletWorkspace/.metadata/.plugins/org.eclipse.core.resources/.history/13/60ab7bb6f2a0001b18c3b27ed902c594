@@ -1,0 +1,60 @@
+package com.te.sprmvc.controllers;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.te.sprmvc.beans.EmployeeBean;
+
+import com.te.sprmvc.dao.EmployeeDao;
+
+@Controller
+public class FormController {
+	
+	@Autowired
+	private EmployeeDao dao;
+	
+	@GetMapping("/login0")
+	public String getLoginForm() {
+		return "loginForm";
+	}
+	
+	
+	@GetMapping("/searchForm")
+	public String getSearchForm(ModelMap map,HttpSession session) {
+		if(session.getAttribute("emp")!=null) {
+			return "searchForm";
+			
+		}else {
+			map.addAttribute("errMsg","Invalid Credentials");
+			return "loginForm";
+			
+		}
+		
+	}
+	
+	@PostMapping("/loginform")
+	public String getAuthenticate(int id,String pwd,HttpServletRequest request,ModelMap map) {
+		EmployeeBean employeebean = ((EmployeeDao) dao).authenticate(id, pwd);
+		
+		if(employeebean!=null) {
+			HttpSession session=request.getSession(true);
+			session.setAttribute("emp", employeebean);
+			return "homePage";
+			
+			
+		}
+		
+		else {
+			map.addAttribute("errMsg","Invalid Credentials");
+			return "loginForm";
+		}
+		
+	}
+
+}

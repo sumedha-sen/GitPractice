@@ -1,0 +1,21 @@
+package com.te.config;
+
+import com.te.spring.MyBeanFactoryPP;
+import com.te.spring.dto.Message;
+
+public class MsgConfig {
+	
+	public Message getMsgBean() {
+		Message bean=new Message();
+		bean.setMsg("Hi springcore...");
+		return bean;
+		
+	}
+	
+	public MyBeanFactoryPP getBFPP() {
+		return new  MyBeanFactoryPP(); 
+	}
+	
+	
+
+}

@@ -1,0 +1,41 @@
+
+‰
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Çµí‘8ä÷é‡/HğÄRCRITICALZ
+CODE_SMELL
+l	java:S106#"9Replace this use of System.out or System.err by a logger.(ÆÄÀç8ïÙ£è‡/HÕÈRMAJORZ
+CODE_SMELL
+l	java:S106d"9Replace this use of System.out or System.err by a logger.(†óµ‹8ä÷é‡/HßÈRMAJORZ
+CODE_SMELL
+r	java:S106‰"9Replace this use of System.out or System.err by a logger.(ğÿÄúÿÿÿÿ8ïÙ£è‡/HãÈRMAJORZ
+CODE_SMELL
+q	java:S106]"9Replace this use of System.out or System.err by a logger.(õƒÖîúÿÿÿÿ8³ßúé‡/HâÈRMAJORZ
+CODE_SMELL
+q	java:S106o"9Replace this use of System.out or System.err by a logger.(ŸÅçÊùÿÿÿÿ8©¦úç‡/HÓÈRMAJORZ
+CODE_SMELL
+q	java:S1060"9Replace this use of System.out or System.err by a logger.(†–»Óøÿÿÿÿ8ïÙ£è‡/HõÈRMAJORZ
+CODE_SMELL
+q	java:S106t"9Replace this use of System.out or System.err by a logger.(ËäÛºúÿÿÿÿ8÷¨şê‡/H¦ÉRMAJORZ
+CODE_SMELL
+l	java:S106?"9Replace this use of System.out or System.err by a logger.(É‚êÍ8ó˜Ìç‡/H×ÈRMAJORZ
+CODE_SMELL
+l	java:S106u"9Replace this use of System.out or System.err by a logger.(‡öÚª8ä÷é‡/HÔÈRMAJORZ
+CODE_SMELL
+q	java:S106V"9Replace this use of System.out or System.err by a logger.(£¨…ûÿÿÿÿ8©¦úç‡/HáÈRMAJORZ
+CODE_SMELL
+m	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÚ–Õ8›Ş‰ë‡/HÛÉRMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÜµÿÿÿÿÿ8©¦úç‡/HÙÈRMAJORZ
+CODE_SMELL
+q	java:S106s"9Replace this use of System.out or System.err by a logger.(•ÈÏ¬ùÿÿÿÿ8ïÙ£è‡/HŞÈRMAJORZ
+CODE_SMELL
+q	java:S1061"9Replace this use of System.out or System.err by a logger.(¨ÊòÓÿÿÿÿÿ8ä÷é‡/HàÈRMAJORZ
+CODE_SMELL
+q	java:S106j"9Replace this use of System.out or System.err by a logger.(…±Şøúÿÿÿÿ8¦úÃç‡/HØÈRMAJORZ
+CODE_SMELL
+l	java:S1065"9Replace this use of System.out or System.err by a logger.(››®8ïÙ£è‡/HÚÈRMAJORZ
+CODE_SMELL
+l	java:S106!"9Replace this use of System.out or System.err by a logger.(Š¢º„8İ»’ç‡/HÖÈRMAJORZ
+CODE_SMELL
+f
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8İ»’ç‡/HÛÈRCRITICALZ
+CODE_SMELL

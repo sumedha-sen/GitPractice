@@ -1,0 +1,45 @@
+package com.te.sprmvc.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.te.sprmvc.beans.EmployeeBean;
+import com.te.sprmvc.dao.EmployeeDao;
+
+
+
+public class ServiceImpl implements Service {
+	
+	@Autowired
+	EmployeeDao dao;
+
+	public EmployeeBean authenticate(int id, String password) {
+		
+		
+		
+		// TODO Auto-generated method stub
+		return dao.authenticate(id, password);
+	}
+
+	public EmployeeBean getEmployee(int id) {
+		
+		
+		// TODO Auto-generated method stub
+		return dao.getEmployee(id);
+	}
+
+	public boolean deleteEmpData(int id) {
+		
+		
+		// TODO Auto-generated method stub
+		return dao.deleteEmpData(id);
+	}
+
+	@Override
+	public boolean addEmployee(EmployeeBean bean) {
+		
+		
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

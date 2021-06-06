@@ -1,0 +1,10 @@
+package com.tyss.practice;
+
+public class FinalFastImpl {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

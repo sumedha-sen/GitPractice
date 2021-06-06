@@ -1,0 +1,24 @@
+package com.tyss.elftraining.sortingtechniques;
+
+public class MyLinkedList {
+	
+	private Node first=null;
+	private int count=0;
+
+	public void add(Object e){
+	if(first==null){
+	first=new Node(e,null);
+	count++;
+	return;
+	 }
+	Node last=first;
+	while(last.next!=null){
+	last=last.next;
+	last.next=new Node(e,null);
+	}
+
+
+
+	}
+
+}

@@ -1,0 +1,25 @@
+
+b
+java:S11350"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÓRINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÍRINFOZ
+CODE_SMELL
+k
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÐRINFOZ
+CODE_SMELL
+s	java:S1251"<This block of commented-out lines of code should be removed.(®—¨´ùÿÿÿÿ8‹ÆüÜˆ/HÚRMAJORZ
+CODE_SMELL
+s	java:S125 "<This block of commented-out lines of code should be removed.(ü“ñûþÿÿÿÿ8‹ÆüÜˆ/HÙRMAJORZ
+CODE_SMELL
+f
+java:S1161/":Add the "@Override" annotation above this method signature(‹¨¯¿HÑRMAJORZ
+CODE_SMELL
+„
+java:S1989#"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿHÏRMINORZVULNERABILITY
+{
+java:S1192$"FDefine a constant instead of duplicating this literal "</br>" 4 times.(ãÜóM8Ôï…Ýˆ/HßRCRITICALZ
+CODE_SMELL

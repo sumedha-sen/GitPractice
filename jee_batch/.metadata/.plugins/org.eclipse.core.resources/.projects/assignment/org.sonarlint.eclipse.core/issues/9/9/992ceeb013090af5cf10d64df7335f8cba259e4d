@@ -1,0 +1,85 @@
+
+y
+java:S3973("IUse indentation to denote the code conditionally executed by this "else".(ÔÍØHÆÔRCRITICALZ
+CODE_SMELL
+k
+java:S1854,"9Remove this useless assignment to local variable "login".(ë’ÓµúÿÿÿÿHÈÔRMAJORZ
+CODE_SMELL
+j
+java:S1854="=Remove this useless assignment to local variable "questions".(í¾¢ÌHÉÔRMAJORZ
+CODE_SMELL
+o
+java:S1854?"=Remove this useless assignment to local variable "questions".(»¥‘¼ûÿÿÿÿHÊÔRMAJORZ
+CODE_SMELL
+j
+java:S1854A"=Remove this useless assignment to local variable "questions".(­¸ßÀHËÔRMAJORZ
+CODE_SMELL
+‚
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Çµí‘HÌÔRCRITICALZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(îä¢äúÿÿÿÿHİÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÒÎ©øÿÿÿÿHŞÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(öØ¤¦ùÿÿÿÿHßÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ôß¬¹ùÿÿÿÿHàÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿHáÔRMAJORZ
+CODE_SMELL
+j	java:S106""9Replace this use of System.out or System.err by a logger.(£ò£ÙúÿÿÿÿHâÔRMAJORZ
+CODE_SMELL
+e	java:S106'"9Replace this use of System.out or System.err by a logger.(‹‡ãÌHãÔRMAJORZ
+CODE_SMELL
+j	java:S106)"9Replace this use of System.out or System.err by a logger.(Äé²ÚùÿÿÿÿHäÔRMAJORZ
+CODE_SMELL
+j	java:S106-"9Replace this use of System.out or System.err by a logger.(Ôß¬¹ùÿÿÿÿHåÔRMAJORZ
+CODE_SMELL
+j	java:S106/"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿHæÔRMAJORZ
+CODE_SMELL
+j	java:S1065"9Replace this use of System.out or System.err by a logger.(ÏÍÉüÿÿÿÿHçÔRMAJORZ
+CODE_SMELL
+j	java:S1068"9Replace this use of System.out or System.err by a logger.(ÄƒÌæıÿÿÿÿHèÔRMAJORZ
+CODE_SMELL
+e	java:S1069"9Replace this use of System.out or System.err by a logger.(–Ì¹úHéÔRMAJORZ
+CODE_SMELL
+e	java:S106:"9Replace this use of System.out or System.err by a logger.(à²€íHêÔRMAJORZ
+CODE_SMELL
+e	java:S106D"9Replace this use of System.out or System.err by a logger.(±Ã›¬HëÔRMAJORZ
+CODE_SMELL
+j	java:S106E"9Replace this use of System.out or System.err by a logger.(¨Œ“êûÿÿÿÿHìÔRMAJORZ
+CODE_SMELL
+d	java:S106J"9Replace this use of System.out or System.err by a logger.(¨ˆ“tHíÔRMAJORZ
+CODE_SMELL
+e	java:S106O"9Replace this use of System.out or System.err by a logger.(™Á¶äHîÔRMAJORZ
+CODE_SMELL
+e	java:S106T"9Replace this use of System.out or System.err by a logger.(ü‡Â¯HïÔRMAJORZ
+CODE_SMELL
+e	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ğã€HğÔRMAJORZ
+CODE_SMELL
+e	java:S106e"9Replace this use of System.out or System.err by a logger.(À±œèHñÔRMAJORZ
+CODE_SMELL
+e	java:S106f"9Replace this use of System.out or System.err by a logger.(­š‰îHòÔRMAJORZ
+CODE_SMELL
+j	java:S106g"9Replace this use of System.out or System.err by a logger.(Ğ®…ÒÿÿÿÿÿHóÔRMAJORZ
+CODE_SMELL
+j	java:S106h"9Replace this use of System.out or System.err by a logger.(â®®”úÿÿÿÿHôÔRMAJORZ
+CODE_SMELL
+d	java:S106l"9Replace this use of System.out or System.err by a logger.(³Ñ¶"HõÔRMAJORZ
+CODE_SMELL
+e	java:S106o"9Replace this use of System.out or System.err by a logger.(ÌÏŒÈHöÔRMAJORZ
+CODE_SMELL
+e	java:S106p"9Replace this use of System.out or System.err by a logger.(¡¿±ÇH÷ÔRMAJORZ
+CODE_SMELL
+[
+java:S1481=".Remove this unused "questions" local variable.(í¾¢ÌHøÔRMINORZ
+CODE_SMELL
+`
+java:S1481?".Remove this unused "questions" local variable.(»¥‘¼ûÿÿÿÿHùÔRMINORZ
+CODE_SMELL
+[
+java:S1481A".Remove this unused "questions" local variable.(­¸ßÀHúÔRMINORZ
+CODE_SMELL
+\
+java:S1481,"*Remove this unused "login" local variable.(ë’ÓµúÿÿÿÿHûÔRMINORZ
+CODE_SMELL

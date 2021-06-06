@@ -1,0 +1,17 @@
+package com.tyss.elftraining.sortingtechniques;
+
+public class LinkedListTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		MyLinkedList obj=new MyLinkedList();
+		obj.add(10);
+		obj.add(20);
+		obj.add(30);
+		obj.add(40);
+		System.out.println(obj)
+
+	}
+
+}

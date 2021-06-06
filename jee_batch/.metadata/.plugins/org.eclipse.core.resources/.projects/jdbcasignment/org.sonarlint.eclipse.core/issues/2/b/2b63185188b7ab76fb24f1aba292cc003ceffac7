@@ -1,0 +1,22 @@
+
+j
+java:S1135+"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8öĞ´³‚/H•ÂRINFOZ
+CODE_SMELL
+v
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‚ÌÆË8öĞ´³‚/H–ÂRBLOCKERZBUG
+f
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8öĞ´³‚/H—ÂRCRITICALZ
+CODE_SMELL
+p
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8„’¯²‚/H™ÂRMINORZ
+CODE_SMELL
+q	java:S106$"9Replace this use of System.out or System.err by a logger.(¡‹‘Şşÿÿÿÿ8Ù°Ç³‚/HšÂRMAJORZ
+CODE_SMELL
+l	java:S106%"9Replace this use of System.out or System.err by a logger.(Ï¸›Š8Ù°Ç³‚/H›ÂRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(×›š78öĞ´³‚/HœÂRMAJORZ
+CODE_SMELL
+l	java:S106#"9Replace this use of System.out or System.err by a logger.(íŞå8Ù°Ç³‚/HÂRMAJORZ
+CODE_SMELL
+|
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õ²Ÿ8öĞ´³‚/HÂRBLOCKERZBUG

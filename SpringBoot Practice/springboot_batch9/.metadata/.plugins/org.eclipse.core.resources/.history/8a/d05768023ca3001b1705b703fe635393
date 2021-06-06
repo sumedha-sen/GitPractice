@@ -1,0 +1,33 @@
+package com.te.springboot.controller;
+
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.te.springboot.beans.EmployeeBean;
+import com.te.springboot.beans.EmployeeResponse;
+
+@RestController
+public class EmployeeController {
+	
+	@GetMapping(path = "/getEmp", produces = { MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE })
+	public EmployeeResponse getEmployee(int id) {
+	
+	@GetMapping(path = "/getEmp", produces = { MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE })
+	public EmployeeResponse getEmployee(int id) {
+		EmployeeBean employeeBean = service.getEmployee(id);
+		EmployeeResponse employeeResponse = new EmployeeResponse();
+		if (employeeBean != null) {
+			employeeResponse.setStatusCode(200);
+			employeeResponse.setMsg("success");
+			employeeResponse.setDescription(" Data found for id : " + id);
+			employeeResponse.setBean(employeeBean);
+		} else {
+			employeeResponse.setStatusCode(404);
+			employeeResponse.setMsg("failure");
+			employeeResponse.setDescription("Error Data Not found");
+		}
+		return employeeResponse;
+	}
+
+}

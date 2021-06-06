@@ -1,0 +1,59 @@
+
+[
+java:S3740$"/Provide the parametrized type for this generic.(…ÓŠˆH¹RMAJORZ
+CODE_SMELL
+[
+java:S37408"/Provide the parametrized type for this generic.(«Çõ÷HºRMAJORZ
+CODE_SMELL
+`
+java:S3740K"/Provide the parametrized type for this generic.(¤İÆ®şÿÿÿÿH»RMAJORZ
+CODE_SMELL
+|
+java:S1192"HDefine a constant instead of duplicating this literal "shubham" 4 times.(“ë¹ùÿÿÿÿH¼RCRITICALZ
+CODE_SMELL
+w
+java:S1192"IDefine a constant instead of duplicating this literal "rakhshit" 4 times.(ªá€"HÁRCRITICALZ
+CODE_SMELL
+z
+java:S1192"FDefine a constant instead of duplicating this literal "kiran" 4 times.(Î şùÿÿÿÿHÆRCRITICALZ
+CODE_SMELL
+{
+java:S1192"GDefine a constant instead of duplicating this literal "sumera" 4 times.(¼’ú™ûÿÿÿÿHËRCRITICALZ
+CODE_SMELL
+x
+java:S1192"IDefine a constant instead of duplicating this literal "priyanka" 8 times.(ãğ¢ŒHĞRCRITICALZ
+CODE_SMELL
+z
+java:S1192"FDefine a constant instead of duplicating this literal "pooja" 8 times.(çŞ¸ûùÿÿÿÿHÙRCRITICALZ
+CODE_SMELL
+{
+java:S1192"GDefine a constant instead of duplicating this literal "pankaj" 4 times.(Öî¯›üÿÿÿÿHâRCRITICALZ
+CODE_SMELL
+z
+java:S1192"FDefine a constant instead of duplicating this literal "krish" 4 times.(¸¥Ò‚şÿÿÿÿHçRCRITICALZ
+CODE_SMELL
+h
+java:S1854"7Remove this useless assignment to local variable "itr".(€ÎŸ­úÿÿÿÿHìRMAJORZ
+CODE_SMELL
+c
+java:S18540"7Remove this useless assignment to local variable "itr".(ˆèÔHíRMAJORZ
+CODE_SMELL
+h
+java:S1854D"7Remove this useless assignment to local variable "itr".(ÒñåØüÿÿÿÿHîRMAJORZ
+CODE_SMELL
+c
+java:S1854W"7Remove this useless assignment to local variable "itr".(«ÿ“HïRMAJORZ
+CODE_SMELL
+d	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëÈêÊHğRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(„ííHñRMAJORZ
+CODE_SMELL
+d	java:S1062"9Replace this use of System.out or System.err by a logger.(„ííHòRMAJORZ
+CODE_SMELL
+d	java:S106F"9Replace this use of System.out or System.err by a logger.(„ííHóRMAJORZ
+CODE_SMELL
+d	java:S106Y"9Replace this use of System.out or System.err by a logger.(„ííHôRMAJORZ
+CODE_SMELL
+i	java:S106_"9Replace this use of System.out or System.err by a logger.(é²Ù£úÿÿÿÿHõRMAJORZ
+CODE_SMELL

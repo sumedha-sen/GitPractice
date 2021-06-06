@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    
+     <bean class="com.tyss.scoreproject2.bean.Department" id="dept" autowire-candidate="false">
+    
+
+        <property name="dId" value="100" />
+         <property name="dname" value="Development" />
+     </bean>
+
+     <bean class="com.tyss.scoreproject2.bean.Department" id="hr" autowire-candidate="false">
+    
+
+        <property name="dId" value="200" />
+        <property name="dname" value="HR" />
+     </bean>
+
+     <bean class="com.tyss.scoreproject2.bean.Department" id="sales" >
+    
+
+       <property name="dId" value="300" />
+        <property name="dname" value="Sales" />
+     </bean>
+    <bean class="com.tyss.scoreproject2.bean.Department" id="test" autowire-candidate="false">
+    
+
+        <property name="dId" value="400" />
+        <property name="dname" value="Testing" />
+     </bean>
+     </beans>

@@ -1,0 +1,21 @@
+
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(Ï¸›Š8…¼Ô¨‚/H×RMAJORZ
+CODE_SMELL
+{
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õ²Ÿ8»ëÂ¨‚/HÏRBLOCKERZBUG
+e
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8…¼Ô¨‚/HØRCRITICALZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(íŞå8…¼Ô¨‚/HÕRMAJORZ
+CODE_SMELL
+j	java:S106#"9Replace this use of System.out or System.err by a logger.(×›š78…¼Ô¨‚/HÔRMAJORZ
+CODE_SMELL
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³Úíú8»ëÂ¨‚/HĞRBLOCKERZBUG
+i
+java:S11358"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8 Œ¡¨‚/HÉRINFOZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(¡‹‘Şşÿÿÿÿ8…¼Ô¨‚/HÖRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(†¨÷È8¢¸ê¨‚/HÜRMAJORZ
+CODE_SMELL

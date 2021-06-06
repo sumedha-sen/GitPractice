@@ -1,0 +1,12 @@
+
+T
+java:S1643*"Use a StringBuilder instead.(†”Çüúÿÿÿÿ8·¯Ä‰Š/HÙ	RMINORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(¦Èµ»ýÿÿÿÿ8·¯Ä‰Š/HÛ	RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8·¯Ä‰Š/HÚ	RMINORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8âýÜ‰Š/Hæ	RMINORZ
+CODE_SMELL

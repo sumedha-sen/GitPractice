@@ -1,0 +1,57 @@
+
+†
+java:S1128
+"URemove this unused import 'org.springframework.web.bind.annotation.SessionAttribute'.(Êšˆ¸ùÿÿÿÿHÆ"RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÊ"RINFOZ
+CODE_SMELL
+g	java:S125{"<This block of commented-out lines of code should be removed.(á•Š—HÓ"RMAJORZ
+CODE_SMELL
+c
+java:S1135‰"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÕ"RINFOZ
+CODE_SMELL
+ˆ
+java:S1488j"\Immediately return this expression instead of assigning it to the temporary variable "data".(€æÃHÄ"RMINORZ
+CODE_SMELL
+c	java:S106 "9Replace this use of System.out or System.err by a logger.(¨¸ÿ&HË"RMAJORZ
+CODE_SMELL
+c
+java:S1135¡"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHÖ"RINFOZ
+CODE_SMELL
+k
+java:S4973›"9Use the "equals" method if value comparison was intended.(»íãÔøÿÿÿÿ8•™œ/H®#RMAJORZBUG
+b
+java:S1135d"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÑ"RINFOZ
+CODE_SMELL
+}
+java:S1192"IDefine a constant instead of duplicating this literal "employee" 6 times.(õ†ïûþÿÿÿÿH½"RCRITICALZ
+CODE_SMELL
+m
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿHÇ"RMINORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(ûã´ÌúÿÿÿÿHÎ"RMAJORZ
+CODE_SMELL
+k
+java:S4973•"9Use the "equals" method if value comparison was intended.(€¤ëúÿÿÿÿ8•™œ/H­#RMAJORZBUG
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ûã´ÌúÿÿÿÿHÌ"RMAJORZ
+CODE_SMELL
+b
+java:S11354"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÍ"RINFOZ
+CODE_SMELL
+{
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰ØHÅ"RMINORZ
+CODE_SMELL
+g	java:S125D"<This block of commented-out lines of code should be removed.(ŠÈüöHÏ"RMAJORZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(Ž…å$HÈ"RMAJORZ
+CODE_SMELL
+W
+java:S1168o"+Return an empty collection instead of null.(¥¹ïHÒ"RMAJORZ
+CODE_SMELL
+b
+java:S1135]"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÐ"RINFOZ
+CODE_SMELL
+c
+java:S1135‡"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÔ"RINFOZ
+CODE_SMELL

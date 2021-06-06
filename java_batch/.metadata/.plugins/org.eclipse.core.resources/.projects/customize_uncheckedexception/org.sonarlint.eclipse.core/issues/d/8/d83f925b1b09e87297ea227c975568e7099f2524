@@ -1,0 +1,18 @@
+
+h
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8¿ïÈºŠ/HÍRMINORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(«„ðÞúÿÿÿÿ8¿ïÈºŠ/HËRMINORZ
+CODE_SMELL
+r
+java:S3518"CMake sure this expression can't be zero before doing this division.(›íŽÄ8¿ïÈºŠ/HÉRCRITICALZBUG
+e
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¿ïÈºŠ/HÊRMINORZ
+CODE_SMELL
+b
+java:S1135	"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÌRINFOZ
+CODE_SMELL
+o
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ÔƒÜçHÎRMAJORZ
+CODE_SMELL

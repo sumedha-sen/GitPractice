@@ -1,0 +1,73 @@
+
+r	java:S106µ"9Replace this use of System.out or System.err by a logger.(çòÖâûÿÿÿÿ8¼“¢Ùƒ/HÛ“RMAJORZ
+CODE_SMELL
+r	java:S106ù"9Replace this use of System.out or System.err by a logger.(±Æü°úÿÿÿÿ8¼“¢Ùƒ/H×“RMAJORZ
+CODE_SMELL
+l	java:S106Û"9Replace this use of System.out or System.err by a logger.(ĞĞ›X8¼“¢Ùƒ/Hà“RMAJORZ
+CODE_SMELL
+f
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¼“¢Ùƒ/H¥†RMINORZ
+CODE_SMELL
+Š
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(ÛÛ¯ø8¼“¢Ùƒ/Hº“RCRITICALZ
+CODE_SMELL
+m	java:S106¡"9Replace this use of System.out or System.err by a logger.(¹İŠ8¼“¢Ùƒ/HŞ“RMAJORZ
+CODE_SMELL
+m	java:S106¤"9Replace this use of System.out or System.err by a logger.(¾±”û8¼“¢Ùƒ/Há“RMAJORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(Ö×¬¦øÿÿÿÿ8¼“¢Ùƒ/H¹“RMAJORZ
+CODE_SMELL
+m	java:S106õ"9Replace this use of System.out or System.err by a logger.(‹°¯­8¼“¢Ùƒ/HÚ“RMAJORZ
+CODE_SMELL
+g
+java:S1199Ÿ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¼“¢Ùƒ/H§†RMINORZ
+CODE_SMELL
+„
+java:S1192&"HDefine a constant instead of duplicating this literal "EmpData" 6 times.(´™Åøÿÿÿÿ8ä´ãÙƒ/Hæ£RCRITICALZ
+CODE_SMELL
+]	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8¼“¢Ùƒ/HÔ“RCRITICALZ
+CODE_SMELL
+l	java:S106N"9Replace this use of System.out or System.err by a logger.(‹°¯­8¼“¢Ùƒ/HÕ“RMAJORZ
+CODE_SMELL
+k	java:S106ü"9Replace this use of System.out or System.err by a logger.(Òô™£ıÿÿÿÿH˜†RMAJORZ
+CODE_SMELL
+q	java:S106e"9Replace this use of System.out or System.err by a logger.(çòÖâûÿÿÿÿ8¼“¢Ùƒ/Hã“RMAJORZ
+CODE_SMELL
+l	java:S106P"9Replace this use of System.out or System.err by a logger.(ÃôÚú8¼“¢Ùƒ/HâšRMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ç—Ğáüÿÿÿÿ8¼“¢Ùƒ/Hß“RMAJORZ
+CODE_SMELL
+f
+java:S1199L"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¼“¢Ùƒ/H¦†RMINORZ
+CODE_SMELL
+r	java:S106÷"9Replace this use of System.out or System.err by a logger.(—›½çıÿÿÿÿ8¼“¢Ùƒ/HÖ“RMAJORZ
+CODE_SMELL
+k
+java:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¼“¢Ùƒ/Hä“RINFOZ
+CODE_SMELL
+}
+java:S2259C"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8¼“¢Ùƒ/H„ RMAJORZBUG
+~
+java:S2259³"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8¼“¢Ùƒ/HÔRMAJORZBUG
+g
+java:S1199Í"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¼“¢Ùƒ/H¨†RMINORZ
+CODE_SMELL
+m	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¹İŠ8¼“¢Ùƒ/HÊRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÂÜ8¼“¢Ùƒ/HØ“RMAJORZ
+CODE_SMELL
+l	java:S106T"9Replace this use of System.out or System.err by a logger.(¾±”û8¼“¢Ùƒ/Hå“RMAJORZ
+CODE_SMELL
+t
+java:S2259Š"AA "NullPointerException" could be thrown; "out" is nullable here.(ìü•Ìÿÿÿÿÿ8¼“¢Ùƒ/HŒRMAJORZBUG
+q	java:S1061"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ8¼“¢Ùƒ/Hî—RMAJORZ
+CODE_SMELL
+l	java:S106†"9Replace this use of System.out or System.err by a logger.(ĞĞ›X8¼“¢Ùƒ/HÇ¡RMAJORZ
+CODE_SMELL
+g
+java:S1199ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¼“¢Ùƒ/H©†RMINORZ
+CODE_SMELL
+p	java:S125º"<This block of commented-out lines of code should be removed.(Ú°à¬8¼“¢Ùƒ/Hæ“RMAJORZ
+CODE_SMELL
+m	java:S106 "9Replace this use of System.out or System.err by a logger.(ş†Û”8ûÔ¶óƒ/Hë¬RMAJORZ
+CODE_SMELL

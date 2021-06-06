@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;org.omg.SendingContext(RunTime.class[RunTime" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(Throwable.class[Throwable" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(System.class[System" modifiers="49" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;com.sun.xml.internal.bind.v2.schemagen.xmlschema(List.class[List" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(Collection.class[Collection" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(List.class[List" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(ArrayList.class[ArrayList" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(Vector.class[Vector" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(LinkedList.class[LinkedList" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(HashSet.class[HashSet" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util.concurrent(ConcurrentHashMap.class[ConcurrentHashMap" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(LinkedHashSet.class[LinkedHashSet" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.lang(Comparable.class[Comparable" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1603217486933"/>
+<typeInfo handle="=filehandling/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.util(LinkedHashMap$Entry.class[Entry" modifiers="8" timestamp="1603217486933"/>
+<typeInfo handle="=basics/C:\/Program Files\/Java\/jdk1.8.0_271\/jre\/lib\/rt.jar&lt;java.sql(DriverManager.class[DriverManager" modifiers="33" timestamp="1603217486933"/>
+</typeInfoHistroy>

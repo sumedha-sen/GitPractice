@@ -1,0 +1,27 @@
+
+~
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³Úíú8€¸•²‚/H‰ÂRBLOCKERZBUG
+o	java:S125"<This block of commented-out lines of code should be removed.(†¨÷È8€¸•²‚/HŠÂRMAJORZ
+CODE_SMELL
+|
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(žõ²Ÿ8€¸•²‚/H‹ÂRBLOCKERZBUG
+f
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8€¸•²‚/HŒÂRCRITICALZ
+CODE_SMELL
+q	java:S106*"9Replace this use of System.out or System.err by a logger.(¡‹‘Þþÿÿÿÿ8€¸•²‚/HŽÂRMAJORZ
+CODE_SMELL
+l	java:S106)"9Replace this use of System.out or System.err by a logger.(íÞåž8€¸•²‚/HÂRMAJORZ
+CODE_SMELL
+k
+java:S1128	"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8€¸•²‚/HÂRMINORZ
+CODE_SMELL
+^
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8€¸•²‚/H‘ÂRMINORZ
+CODE_SMELL
+l	java:S106+"9Replace this use of System.out or System.err by a logger.(Ï¸›Š8€¸•²‚/H’ÂRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(×›š78€¸•²‚/H“ÂRMAJORZ
+CODE_SMELL
+j
+java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8€¸•²‚/H”ÂRINFOZ
+CODE_SMELL

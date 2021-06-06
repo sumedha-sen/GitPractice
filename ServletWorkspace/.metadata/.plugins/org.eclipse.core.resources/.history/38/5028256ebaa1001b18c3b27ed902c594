@@ -1,0 +1,5 @@
+package com.te.sprmvc.Config;
+
+public class EmpConfig {
+
+}

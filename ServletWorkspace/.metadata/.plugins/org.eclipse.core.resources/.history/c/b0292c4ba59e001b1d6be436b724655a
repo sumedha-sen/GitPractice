@@ -1,0 +1,12 @@
+package com.te.sprmvc.beans;
+
+import java.io.Serializable;
+
+@Data
+public class UserBean implements  Serializable{
+	
+	private String user;
+	private int pwd;
+	
+
+}

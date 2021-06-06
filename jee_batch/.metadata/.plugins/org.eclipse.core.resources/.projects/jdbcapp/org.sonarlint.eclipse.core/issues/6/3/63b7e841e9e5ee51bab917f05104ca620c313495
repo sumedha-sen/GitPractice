@@ -1,0 +1,14 @@
+
+o	java:S125"<This block of commented-out lines of code should be removed.(ì·ûÇ8Šî“¸‡/H„ÁRMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8Áá†¸‡/H†ÁRMAJORZ
+CODE_SMELL
+t	java:S125
+"<This block of commented-out lines of code should be removed.(ãº†ßÿÿÿÿÿ8Šî“¸‡/H‡ÁRMAJORZ
+CODE_SMELL
+Š
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8Šî“¸‡/H‰ÁRMINORZ
+CODE_SMELL
+c
+java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŠÁRINFOZ
+CODE_SMELL

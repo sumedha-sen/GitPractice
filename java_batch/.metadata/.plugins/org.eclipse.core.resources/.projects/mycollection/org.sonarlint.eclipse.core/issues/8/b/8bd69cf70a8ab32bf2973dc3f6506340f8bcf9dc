@@ -1,0 +1,25 @@
+
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¤¯Ê…/HRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(…¬œ¦ÿÿÿÿÿH“RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH‘RINFOZ
+CODE_SMELL
+‘
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù·Ì¤úÿÿÿÿ8¤¯Ê…/HRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ÊŒËÓHRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„«Ø¾üÿÿÿÿ8Ó›Â¬Š/H™RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÁªøH”RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(áöÆ—úÿÿÿÿH’RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÌµÙúÿÿÿÿHRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8Î©­­Š/HœRMAJORZ
+CODE_SMELL

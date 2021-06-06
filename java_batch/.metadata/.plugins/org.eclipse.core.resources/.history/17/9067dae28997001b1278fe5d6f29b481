@@ -1,0 +1,34 @@
+package com.tyss.practice;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class FinalFastImpl {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<Integer> obj=new ArrayList<Integer>();
+		obj.add(10);
+		obj.add(20);
+		obj.add(30);
+		obj.add(40);
+		obj.add(50);
+		obj.remove(3);
+		System.out.println(obj);
+		Iterator iterator=obj.iterator();
+		System.out.println("print using iterator");
+		while(iterator.hasNext()) {
+			if(iterator.next()==(Object)20) {
+				obj.remove(2);
+			}
+//			
+			System.out.println(iterator.next());
+			
+			
+		}
+		
+		
+
+	}
+
+}

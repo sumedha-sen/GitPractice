@@ -1,0 +1,13 @@
+
+l	java:S106)"9Replace this use of System.out or System.err by a logger.(¶¤¤³8ÃÈ‡²‚/HØÁRMAJORZ
+CODE_SMELL
+|
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õ²Ÿ8ÃÈ‡²‚/HÙÁRBLOCKERZBUG
+j
+java:S11351"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÃÈ‡²‚/HÚÁRINFOZ
+CODE_SMELL
+~
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³Úíú8ÃÈ‡²‚/HÛÁRBLOCKERZBUG
+f
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÃÈ‡²‚/HÜÁRCRITICALZ
+CODE_SMELL

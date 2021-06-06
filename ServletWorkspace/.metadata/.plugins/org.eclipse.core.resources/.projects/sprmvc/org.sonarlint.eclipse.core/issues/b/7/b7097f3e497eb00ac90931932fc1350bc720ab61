@@ -1,0 +1,38 @@
+
+~
+java:S4684["@Replace this persistent entity with a simple POJO or DTO object.(»ÅÚ½ıÿÿÿÿ8Óß†/H¢RCRITICALZVULNERABILITY
+x
+java:S4684©"@Replace this persistent entity with a simple POJO or DTO object.(…ÒÌ©ÿÿÿÿÿH–RCRITICALZVULNERABILITY
+{
+java:S11928"GDefine a constant instead of duplicating this literal "errMsg" 7 times.(äõí÷ÿÿÿÿÿH§RCRITICALZ
+CODE_SMELL
+
+java:S4684’"@Replace this persistent entity with a simple POJO or DTO object.(¨È“Êøÿÿÿÿ8¤¾’„/H¥RCRITICALZVULNERABILITY
+o	java:S125Ö"<This block of commented-out lines of code should be removed.(ä–ƒâ8ˆ‰˜/H‚ RMAJORZ
+CODE_SMELL
+‚
+java:S1192e"GDefine a constant instead of duplicating this literal "errmsg" 5 times.(±†Çêşÿÿÿÿ8»†üƒ/HœRCRITICALZ
+CODE_SMELL
+y
+java:S4684o"@Replace this persistent entity with a simple POJO or DTO object.(¯ï®8Óß†/H¤RCRITICALZVULNERABILITY
+s
+java:S4684Â"@Replace this persistent entity with a simple POJO or DTO object.(‘´ŞæH—RCRITICALZVULNERABILITY
+r
+java:S4684M"@Replace this persistent entity with a simple POJO or DTO object.(•¼–H£RCRITICALZVULNERABILITY
+s	java:S125"<This block of commented-out lines of code should be removed.(ÉŒÒîıÿÿÿÿ8ò…Ÿš/Hã!RMAJORZ
+CODE_SMELL
+‡
+java:S1192e"LDefine a constant instead of duplicating this literal "Login First" 3 times.(±†Çêşÿÿÿÿ8Óß†/H˜RCRITICALZ
+CODE_SMELL
+z
+java:S1192."KDefine a constant instead of duplicating this literal "loginForm" 11 times.(û€À–HRCRITICALZ
+CODE_SMELL
+~
+java:S4684~"@Replace this persistent entity with a simple POJO or DTO object.(õô»®ıÿÿÿÿ8¯Ñ‰†/HRCRITICALZVULNERABILITY
+w
+java:S4684~"@Replace this persistent entity with a simple POJO or DTO object.(õô»®ıÿÿÿÿH‘RCRITICALZVULNERABILITY
+~
+java:S4684["@Replace this persistent entity with a simple POJO or DTO object.(»ÅÚ½ıÿÿÿÿ8¤¾’„/HRCRITICALZVULNERABILITY
+„
+java:S11928"PDefine a constant instead of duplicating this literal "pls login first" 5 times.(äõí÷ÿÿÿÿÿH°RCRITICALZ
+CODE_SMELL

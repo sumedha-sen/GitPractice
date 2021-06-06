@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.tyss.thread.threadconcepts&apos; to &apos;mycollection/src/com.tyss.elftraining.mycollection&apos;&#x0D;&#x0A;- Original project: &apos;thread&apos;&#x0D;&#x0A;- Destination element: &apos;mycollection/src/com.tyss.elftraining.mycollection&apos;&#x0D;&#x0A;- Original element: &apos;thread/src/com.tyss.thread.threadconcepts&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=mycollection/src&lt;com.tyss.elftraining.mycollection" element1="/src&lt;com.tyss.thread.threadconcepts" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1615209499147" version="1.0"/>
+</session>

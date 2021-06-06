@@ -1,0 +1,5 @@
+package co.te.sprmvc.dao;
+
+public interface EmployeeDao {
+
+}

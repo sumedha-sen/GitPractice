@@ -1,0 +1,16 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHãRINFOZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHçRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(óİ€½HåRMAJORZ
+CODE_SMELL
+Š
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(è‡ÄçûÿÿÿÿHäRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(„ííHæRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Í ²îûÿÿÿÿ8¹®Û”€/HóRMAJORZ
+CODE_SMELL

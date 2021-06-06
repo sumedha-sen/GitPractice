@@ -1,0 +1,26 @@
+package com.technoelevate.loggerproj;
+
+import java.util.logging.ConsoleHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class SonarLint_Proj {
+	final static java.util.logging.Logger Logger=java.util.logging.Logger.getLogger(java.util.logging.Logger.class.getName());
+	public static void main(String[] args) {
+		
+		ConsoleHandler handler=new ConsoleHandler();
+		handler.setLevel(Level.ALL);
+		Logger.addHandler(handler);
+		
+		Logger.severe("severe msg");
+		Logger.warning("warning msg");
+		Logger.info("info msg");
+		
+		Logger.config("config msg");
+		Logger.fine("fine msg");
+		Logger.finer("finer msg");
+		Logger.finest("finest msg");
+		
+	}
+
+}

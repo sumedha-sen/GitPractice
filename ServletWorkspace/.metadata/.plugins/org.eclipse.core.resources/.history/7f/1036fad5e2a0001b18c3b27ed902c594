@@ -1,0 +1,35 @@
+package co.te.sprmvc.dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import com.te.sprmvc.beans.EmployeeBean;
+
+public class EmployeeDaoHibImpl implements EmployeeDao {
+
+	public EmployeeBean authenticate(int id, String password) {
+		// TODO Auto-generated method stub
+		
+		
+		EntityManagerFactory factory=Persistence.createEntityManagerFactory("employee");
+		EntityManager manager=factory.createEntityManager();
+		EmployeeBean bean=manager.find(EmployeeBean.class,id);
+		
+		if(bean!=null) {
+			
+          if(bean.getPassword().equals(password)) {
+        	  System.out.println("Login success");
+        	  return bean;
+        	  
+          }else {
+        	  System.out.println("Login not successful");
+        	  return null;
+          }
+		}
+		return bean;
+			
+		
+	}
+
+}

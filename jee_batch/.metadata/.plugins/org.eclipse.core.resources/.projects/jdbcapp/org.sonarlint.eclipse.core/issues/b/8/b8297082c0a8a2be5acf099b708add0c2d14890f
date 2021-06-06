@@ -1,0 +1,26 @@
+
+l	java:S1064"9Replace this use of System.out or System.err by a logger.(Š‚‚á8›­Á†‚/HıËRMAJORZ
+CODE_SMELL
+a
+java:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸ8©´­‚‚/HşËRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(İµÜµ8¬¤Í…‚/HÿËRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(²ü¤¶8›­Á†‚/H€ÌRMAJORZ
+CODE_SMELL
+l	java:S1066"9Replace this use of System.out or System.err by a logger.(¢¬ê«8›­Á†‚/HÌRMAJORZ
+CODE_SMELL
+{
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8ñÕÕ‚‚/H‚ÌRBLOCKERZBUG
+l	java:S106"9Replace this use of System.out or System.err by a logger.(æ÷Í8›­Á†‚/HƒÌRMAJORZ
+CODE_SMELL
+o	java:S125"<This block of commented-out lines of code should be removed.(ñ—óÔ8Êß‚‚/H„ÌRMAJORZ
+CODE_SMELL
+
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ¢¡…8À›º†‚/H†ÌRMINORZ
+CODE_SMELL
+t	java:S125#"<This block of commented-out lines of code should be removed.(›æøÛùÿÿÿÿ8À›º†‚/H‡ÌRMAJORZ
+CODE_SMELL
+j
+java:S1135<"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8©´­‚‚/H‹ÌRINFOZ
+CODE_SMELL

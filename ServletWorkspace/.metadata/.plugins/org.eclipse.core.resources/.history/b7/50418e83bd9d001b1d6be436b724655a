@@ -1,0 +1,15 @@
+package com.te.spring.dto;
+
+import java.io.Serializable;
+
+import lombok.Data;
+@Data
+public class Message implements Serializable{
+	
+	public Message() {
+		System.out.println("insta phase");
+	}
+	
+	private String msg;
+
+}

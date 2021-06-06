@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tyss.thread.threadconcepts.ThreadRunnableImpl&apos; to &apos;ThreadRunnableOne&apos;&#x0D;&#x0A;- Original project: &apos;thread&apos;&#x0D;&#x0A;- Original element: &apos;com.tyss.thread.threadconcepts.ThreadRunnableImpl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tyss.thread.threadconcepts.ThreadRunnableOne&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ThreadRunnableImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.tyss.thread.threadconcepts{ThreadRunnableImpl.java[ThreadRunnableImpl" matchStrategy="1" name="ThreadRunnableOne" qualified="false" references="true" similarDeclarations="false" stamp="1614924828254" textual="false" version="1.0"/>
+</session>

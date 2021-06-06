@@ -1,0 +1,10 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ดน๖þÿÿÿÿHธRMAJORZ
+CODE_SMELL
+k
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ไ น€HนRMAJORZBUG
+b
+java:S1135"2Complete the task associated to this TODO comment.(ีฬฎþÿÿÿÿHบRINFOZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ื้๏๙ÿÿÿÿHปRMAJORZ
+CODE_SMELL

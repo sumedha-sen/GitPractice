@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FindMovie.java&apos; to &apos;com.tyss.jpaproj.FindMovie.java&apos;&#x0D;&#x0A;- Original project: &apos;jpaproj&apos;&#x0D;&#x0A;- Destination element: &apos;com.tyss.jpaproj.FindMovie.java&apos;&#x0D;&#x0A;- Original element: &apos;com.tyss.jpaproj.FindMovie.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.tyss.jpaproj{FindMovie.java" element1="/src\/main\/java&lt;com.tyss.jpaproj{FindMovie.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1615900517863" units="1" version="1.0"/>
+</session>

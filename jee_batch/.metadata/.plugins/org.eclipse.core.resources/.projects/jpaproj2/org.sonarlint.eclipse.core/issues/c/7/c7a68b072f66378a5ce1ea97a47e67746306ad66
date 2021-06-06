@@ -1,0 +1,12 @@
+
+|
+java:S22592"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµþÿÿÿÿ8Áþ£Íƒ/Hð	RMAJORZBUG
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Áþ£Íƒ/Hý	RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ªìçê8Áþ£Íƒ/Hþ	RMAJORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'com.tyss.jpaproj2.bean.Movies1'.(Ÿ¶¾£8™§­Íƒ/Hš
+RMINORZ
+CODE_SMELL

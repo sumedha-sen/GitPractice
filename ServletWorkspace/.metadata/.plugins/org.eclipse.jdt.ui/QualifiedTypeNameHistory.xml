@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="com.tyss.springproj.EmployeePrimaryInfo"/>
+<fullyQualifiedTypeName name="com.tyss.springproj.EmployeeAddressInfo"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="com.te.sprmvc.service.Service"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.te.springrestproj.dao.EmployeeDao"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonRootName"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlTransient"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonPropertyOrder"/>
+<fullyQualifiedTypeName name="com.te.sprinrestproj.beans.EmployeeBean"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,8 @@
+package com.te.sprmvc.dao;
+
+public class Snippet {
+	public static void main(String[] args) {
+		("/loginform")
+	}
+}
+

@@ -1,0 +1,84 @@
+
+o	java:S125"<This block of commented-out lines of code should be removed.(ÕÊÿÂ8Ûø€Ùƒ/HÁøRMAJORZ
+CODE_SMELL
+f
+java:S1199%"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8†»¾Óƒ/HÂøRMINORZ
+CODE_SMELL
+m	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ş†Û”8šá÷Ôƒ/HÃøRMAJORZ
+CODE_SMELL
+g
+java:S1199¾"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8†»¾Óƒ/HÄøRMINORZ
+CODE_SMELL
+~
+java:S2259ñ"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8Ó»óÓƒ/HÅøRMAJORZBUG
+l	java:S106Ü"9Replace this use of System.out or System.err by a logger.(€Á›n8¯¥ËÓƒ/H¼úRMAJORZ
+CODE_SMELL
+m	java:S106õ"9Replace this use of System.out or System.err by a logger.(¹İŠ8šá÷Ôƒ/H½úRMAJORZ
+CODE_SMELL
+r	java:S106º"9Replace this use of System.out or System.err by a logger.(Òô™£ıÿÿÿÿ8èšÇÕƒ/H¾úRMAJORZ
+CODE_SMELL
+l	java:S106£"9Replace this use of System.out or System.err by a logger.(€Á›n8Ó»óÓƒ/H¿úRMAJORZ
+CODE_SMELL
+g
+java:S1199²"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8†»¾Óƒ/HÀúRMINORZ
+CODE_SMELL
+q	java:S1067"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ8èšÇÕƒ/HÁúRMAJORZ
+CODE_SMELL
+‰
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(ÛÛ¯ø8Ó»óÓƒ/HÂúRCRITICALZ
+CODE_SMELL
+~
+java:S2259ê"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8šá÷Ôƒ/HÜúRMAJORZBUG
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ç—Ğáüÿÿÿÿ8èšÇÕƒ/HÓüRMAJORZ
+CODE_SMELL
+~
+java:S2259‚"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8èšÇÕƒ/HÔüRMAJORZBUG
+l	java:S106Z"9Replace this use of System.out or System.err by a logger.(¾±”û8–¨ßÓƒ/HËşRMAJORZ
+CODE_SMELL
+g
+java:S1199ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8õÊÙÔƒ/HÌşRMINORZ
+CODE_SMELL
+m	java:S106À"9Replace this use of System.out or System.err by a logger.(¹İŠ8–¨ßÓƒ/HÍşRMAJORZ
+CODE_SMELL
+~
+java:S2259¨"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8šá÷Ôƒ/HÎşRMAJORZBUG
+]	java:S131"""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8†»¾Óƒ/HÅ€RCRITICALZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(€Á›n8Ó»óÓƒ/HÆ€RMAJORZ
+CODE_SMELL
+k	java:S106t"9Replace this use of System.out or System.err by a logger.(€Á›n8èšÇÕƒ/HÇ€RMAJORZ
+CODE_SMELL
+„
+java:S1192,"HDefine a constant instead of duplicating this literal "EmpData" 6 times.(´™Åøÿÿÿÿ8¦èæÖƒ/HÈ€RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192t"MDefine a constant instead of duplicating this literal "row affected" 4 times.(€Á›n8šá÷Ôƒ/HÏ€RCRITICALZ
+CODE_SMELL
+}
+java:S2259I"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8–¨ßÓƒ/HÔ€RMAJORZBUG
+r	java:S106µ"9Replace this use of System.out or System.err by a logger.(—›½çıÿÿÿÿ8Ó»óÓƒ/HË‚RMAJORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(Ö×¬¦øÿÿÿÿ8µˆ‡Öƒ/HÌ‚RMAJORZ
+CODE_SMELL
+k
+java:S1135Å"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Õ€Öƒ/HÍ‚RINFOZ
+CODE_SMELL
+l	java:S106T"9Replace this use of System.out or System.err by a logger.(‹°¯­8šá÷Ôƒ/HÎ‚RMAJORZ
+CODE_SMELL
+f
+java:S1199R"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8†»¾Óƒ/HÏ‚RMINORZ
+CODE_SMELL
+e	java:S106V"9Replace this use of System.out or System.err by a logger.(ÃôÚúHĞ‚RMAJORZ
+CODE_SMELL
+p	java:S125ø"<This block of commented-out lines of code should be removed.(Ú°à¬8Æ˜¿Øƒ/HÑ‚RMAJORZ
+CODE_SMELL
+r	java:S106·"9Replace this use of System.out or System.err by a logger.(±Æü°úÿÿÿÿ8èšÇÕƒ/HÔ‚RMAJORZ
+CODE_SMELL
+~
+java:S2259±"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8¯¥ËÓƒ/HÕ‚RMAJORZBUG
+m	java:S106Â"9Replace this use of System.out or System.err by a logger.(¾±”û8šá÷Ôƒ/HÌ„RMAJORZ
+CODE_SMELL
+t
+java:S2259È"AA "NullPointerException" could be thrown; "out" is nullable here.(ìü•Ìÿÿÿÿÿ8Õ€Öƒ/HÍ„RMAJORZBUG
+m	java:S106³"9Replace this use of System.out or System.err by a logger.(‹°¯­8šá÷Ôƒ/HŒ†RMAJORZ
+CODE_SMELL

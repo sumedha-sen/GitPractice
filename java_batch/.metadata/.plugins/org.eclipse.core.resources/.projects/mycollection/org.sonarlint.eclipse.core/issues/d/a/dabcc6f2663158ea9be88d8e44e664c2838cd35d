@@ -1,0 +1,24 @@
+
+c	java:S1061"9Replace this use of System.out or System.err by a logger.(ÇÑ×HRMAJORZ
+CODE_SMELL
+b
+java:S1135G"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL
+„
+java:S1488N"YImmediately return this expression instead of assigning it to the temporary variable "e".(õ©¥THŸRMINORZ
+CODE_SMELL
+g	java:S125	"<This block of commented-out lines of code should be removed.(ëÀ£òH RMAJORZ
+CODE_SMELL
+R
+java:S1905"&Remove this unnecessary cast to "int".(¥”úåH¡RMINORZ
+CODE_SMELL
+†	java:S116"VRename this field "default_arr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®»ÿÿÿÿÿH¢RMINORZ
+CODE_SMELL
+x
+java:S2272L"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ğßıÿÿÿÿH£RMINORZBUG
+b
+java:S1135="2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¤RINFOZ
+CODE_SMELL
+Y
+java:S1125H"(Remove the literal "true" boolean value.(ÛøíÂıÿÿÿÿH¥RMINORZ
+CODE_SMELL

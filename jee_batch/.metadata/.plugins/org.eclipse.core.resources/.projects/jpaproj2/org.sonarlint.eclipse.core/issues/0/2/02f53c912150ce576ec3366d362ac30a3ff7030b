@@ -1,0 +1,5 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.( Åâ³HþRMAJORZ
+CODE_SMELL
+|
+java:S22593"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµþÿÿÿÿ8ùÓ¶Ìƒ/HÿRMAJORZBUG

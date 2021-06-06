@@ -1,0 +1,57 @@
+
+j
+java:S1135¡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ó°É…/H RINFOZ
+CODE_SMELL
+b
+java:S11354"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¦ RINFOZ
+CODE_SMELL
+c	java:S106 "9Replace this use of System.out or System.err by a logger.(¨¸ÿ&H¡ RMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ûã´ÌúÿÿÿÿH RMAJORZ
+CODE_SMELL
+†
+java:S1128
+"URemove this unused import 'org.springframework.web.bind.annotation.SessionAttribute'.(Êšˆ¸ùÿÿÿÿH” RMINORZ
+CODE_SMELL
+b
+java:S1135]"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH  RINFOZ
+CODE_SMELL
+g	java:S125D"<This block of commented-out lines of code should be removed.(ŠÈüöH RMAJORZ
+CODE_SMELL
+}
+java:S1192"IDefine a constant instead of duplicating this literal "employee" 6 times.(õ†ïûşÿÿÿÿH• RCRITICALZ
+CODE_SMELL
+c
+java:S1135‡"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH RINFOZ
+CODE_SMELL
+b
+java:S1135d"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH‹ RINFOZ
+CODE_SMELL
+k
+java:S4973•"9Use the "equals" method if value comparison was intended.(€¤ëúÿÿÿÿ8Ó°É…/H‘ RMAJORZBUG
+{
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰ØH¥ RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH RINFOZ
+CODE_SMELL
+W
+java:S1168o"+Return an empty collection instead of null.(¥¹ïHŸ RMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(ûã´ÌúÿÿÿÿHŒ RMAJORZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(…å$H£ RMAJORZ
+CODE_SMELL
+c
+java:S1135‰"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHœ RINFOZ
+CODE_SMELL
+g	java:S125{"<This block of commented-out lines of code should be removed.(á•Š—H RMAJORZ
+CODE_SMELL
+ˆ
+java:S1488j"\Immediately return this expression instead of assigning it to the temporary variable "data".(€æÃH’ RMINORZ
+CODE_SMELL
+k
+java:S4973›"9Use the "equals" method if value comparison was intended.(»íãÔøÿÿÿÿ8Ó°É…/H¢ RMAJORZBUG
+m
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿH“ RMINORZ
+CODE_SMELL

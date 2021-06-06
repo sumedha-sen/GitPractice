@@ -1,0 +1,34 @@
+package com.tyss.elftraining.sortingtechniques;
+
+public class MyArrayList {
+	
+	Object [] arr;
+	private int size;
+	private int pos;
+	
+	public MyArrayList(){
+		Object []arr=new Object[size];
+		
+	}
+	
+	public void add (Object e) {
+		arr[pos++]=e;
+		
+	}
+	public void grow() {
+		Object []temp=new Object[arr.length+5];
+		System.arraycopy(arr, 0, temp, 0, temp.length);
+		temp=arr;
+	}
+	
+	public int size() {
+		return pos++;
+	}
+	
+	public Object get(int index) {
+		return arr[index];
+		
+	}
+	
+
+}

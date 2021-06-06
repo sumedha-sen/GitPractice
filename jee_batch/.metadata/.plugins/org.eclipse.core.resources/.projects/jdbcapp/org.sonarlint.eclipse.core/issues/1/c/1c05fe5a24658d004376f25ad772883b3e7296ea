@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»èÙçşÿÿÿÿ8ÀÆ«‚/H³RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œÖ¹8ÀÆ«‚/H´RMAJORZ
+CODE_SMELL
+h
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ÀÆ«‚/HµRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŒĞ´£øÿÿÿÿ8ÀÆ«‚/H¶RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(í¬ı½ıÿÿÿÿ8ÀÆ«‚/H·RMAJORZ
+CODE_SMELL

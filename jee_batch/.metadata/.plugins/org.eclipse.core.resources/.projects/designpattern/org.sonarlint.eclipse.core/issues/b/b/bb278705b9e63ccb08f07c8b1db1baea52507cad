@@ -1,0 +1,17 @@
+
+t
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Á¹ßÅøÿÿÿÿHŒÁRMINORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿH˜ÁRINFOZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿH™ÁRINFOZ
+CODE_SMELL
+h	java:S125	"<This block of commented-out lines of code should be removed.(ôÎÔÕHÁRMAJORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿHšÁRINFOZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(¯ÆöÞH‹ÁRMAJORZ
+CODE_SMELL

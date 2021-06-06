@@ -1,0 +1,21 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—›½çýÿÿÿÿ8ü„Å‹‚/HÖRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÞŽ¸üÿÿÿÿ8ü„Å‹‚/H×RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ù¹™úÿÿÿÿ8Þ™Ê‹‚/HµRMAJORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(“Ó‰Öøÿÿÿÿ8ü„Å‹‚/HÎRBLOCKERZBUG
+`
+java:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸ8ü„Å‹‚/HÕRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Ýø½¿úÿÿÿÿ8Þ™Ê‹‚/H¶RMAJORZ
+CODE_SMELL
+s	java:S125$"<This block of commented-out lines of code should be removed.(ÊŠžüÿÿÿÿ8Þ™Ê‹‚/H¸RMAJORZ
+CODE_SMELL
+i
+java:S1135-"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ü„Å‹‚/HÙRINFOZ
+CODE_SMELL
+p
+java:S25838"DChange this condition so that it does not always evaluate to "false"(Õ¯à¦8ü„Å‹‚/HÏRMAJORZBUG

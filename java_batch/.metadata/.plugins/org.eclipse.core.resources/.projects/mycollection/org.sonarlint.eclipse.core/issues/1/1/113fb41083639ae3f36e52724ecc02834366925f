@@ -1,0 +1,27 @@
+
+n
+java:S4143"DVerify this is the key that was intended; it was already set before.(®¦Ó”ÿÿÿÿÿHŠRMAJORZBUG
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŒRINFOZ
+CODE_SMELL
+Š
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(œªÛÓûÿÿÿÿHRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(·çÏÎHRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(§“ıHRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(À¨äğøÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ùËçÖúÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(§Ê°üÿÿÿÿH’RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(şø¹‰H“RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(şú±ŸûÿÿÿÿH”RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(ç’¤™H•RMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(§Îá’ûÿÿÿÿH–RMAJORZ
+CODE_SMELL

@@ -1,0 +1,50 @@
+package com.tyss.elftraining.sortingtechniques;
+
+public class MyLinkedList {
+	
+	private Node first=null;
+	private int count=0;
+
+	public void add(Object e){
+	if(first==null){
+	first=new Node(e,null);
+	count++;
+	return;
+	 }
+	
+	
+	
+		
+	Node last=first;
+	while(last.next!=null){
+	last=last.next;
+	last.next=new Node(e,null);
+	}
+
+
+
+	}
+	public int size(){
+		return count;
+	}
+	
+	public String toString() {
+		if(first==null) {
+			return "[]";
+			String s="["+first.ele;
+			Node temp=first;
+			while(temp.next!=null) {
+				temp=temp.next;
+				s+=","+temp.ele+"]";
+				return s ;
+				
+			}
+			
+		}
+		
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,24 @@
+
+q
+java:S25834"DChange this condition so that it does not always evaluate to "false"(Õ¯à¦8—‰Û‡‚/H¼ÁRMAJORZBUG
+l	java:S106"9Replace this use of System.out or System.err by a logger.(İµÜµ8—‰Û‡‚/H¿ÁRMAJORZ
+CODE_SMELL
+l	java:S106!"9Replace this use of System.out or System.err by a logger.(Š‚‚á8—‰Û‡‚/HÀÁRMAJORZ
+CODE_SMELL
+a
+java:S4925"-Remove this "Class.forName()", it is useless.(Æ…ÈŸ8—‰Û‡‚/HÁÁRMAJORZ
+CODE_SMELL
+j
+java:S1135)"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8—‰Û‡‚/HÂÁRINFOZ
+CODE_SMELL
+l	java:S106#"9Replace this use of System.out or System.err by a logger.(¢¬ê«8—‰Û‡‚/HÃÁRMAJORZ
+CODE_SMELL
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ¢¡…8—‰Û‡‚/HÄÁRMINORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(²ü¤¶8—‰Û‡‚/HÅÁRMAJORZ
+CODE_SMELL
+{
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8—‰Û‡‚/HÆÁRBLOCKERZBUG
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ªŞ¸üÿÿÿÿ8—‰Û‡‚/HÇÁRMAJORZ
+CODE_SMELL

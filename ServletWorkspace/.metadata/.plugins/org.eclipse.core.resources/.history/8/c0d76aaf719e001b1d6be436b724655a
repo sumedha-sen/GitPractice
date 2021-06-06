@@ -1,0 +1,5 @@
+package com.te.spring.dto;
+
+public class Pet {
+
+}
